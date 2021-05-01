@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Blog</title>
+    <link>https://tarun.yenni.github.io/</link>
+    <description>Recent content on My Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 11:59:10 +0530</lastBuildDate><atom:link href="https://tarun.yenni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://tarun.yenni.github.io/posts/mypost/</link>
+      <pubDate>Sat, 01 May 2021 11:59:10 +0530</pubDate>
+      
+      <guid>https://tarun.yenni.github.io/posts/mypost/</guid>
+      <description>This is my first post
+for i in $(cat hello.txt); do $i; done </description>
+    </item>
+    
+  </channel>
+</rss>
